@@ -215,4 +215,4 @@ After jupyter lab has been launched simply click on **_Run->Run All Cells_** fro
 
 You can now interact with the simulation by the use of the buttons provided.
 
-_**for more information about the python scripts [Click Here](https://omotoye.github.io/rt2_assignment2/ "Webpage for the Docs of the script")**_
+
