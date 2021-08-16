@@ -130,7 +130,7 @@ Clone the package repository
 
 ```bash
 cd ~/catkin_ws/src
-git clone https://github.com/Omotoye/rt2_assignment2.git
+
 ```
 
 Once the package has been successfully cloned, you then build the workspace
@@ -154,7 +154,7 @@ source ~/catkin_ws/devel/setup.bash
 If you didnt follow the initial steps because you already have a workspace, trace a path from you home directory to your catkin workspace down to your setup.bash file. An Example is shown below, **_THIS WILL NOT WORK FOR YOU, IT IS JUST AN EXAMPLE TO SHOW HOW IT CAN BE DONE_**
 
 ```bash
-source /home/omotoye/catkin_ws/devel/setup.bash
+source /home/catkin_ws/devel/setup.bash
 ```
 
 run the command below to launch the simulation and all the required nodes
